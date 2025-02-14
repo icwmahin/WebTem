@@ -1,0 +1,18 @@
+/Website-Template
+ ├── /assets
+ │   ├── /css
+ │   │   ├── style.css          # Main CSS file
+ │   │   ├── responsive.css      # Responsive design
+ │   ├── /js
+ │   │   ├── script.js          # Main JavaScript file
+ │   │   ├── utils.js           # Utility functions
+ │   ├── /images                # Store images here
+ │   ├── /fonts                 # Custom fonts
+ │   ├── /icons                 # Icons (e.g., SVG, PNG)
+ ├── /pages
+ │   ├── about.html             # About page
+ │   ├── projects.html          # Projects page
+ │   ├── contact.html           # Contact page
+ ├── index.html                 # Home page
+ ├── README.md                  # Project documentation
+ ├── .gitignore                 # Git ignore file
